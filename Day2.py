@@ -55,7 +55,7 @@ target = 5
 binary_search(arr, target)
 
 
-# Implement a stack using a python list with Push, Pop & Peel operation.
+# Implement a stack using a python list with Push, Pop & Peek operation.
 class Stack():
     def __init__(self):
         self.values = []
@@ -65,7 +65,11 @@ class Stack():
 
     def pop(self):
         return self.values.pop(0)
+    
+    def peek(self):
 
+            return self.values[-1]
+        
 s = Stack()
 s.push(10)
 s.push(20)
@@ -73,3 +77,4 @@ s.push(30)
 print(s.values)
 s.pop()
 print(s.values)
+print("Peek:", s.peek()) 
