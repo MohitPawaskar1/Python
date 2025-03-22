@@ -2,20 +2,20 @@
 # Define an Area() method of the class which calculates the area of the Circle.
 # Define a Perimeter() mothod of the class which allows you to calculate the perimeter of the circle.
 
-# class Cirlce:
-#     def __init__(self, r):
-#         self.r = r
+class Cirlce:
+    def __init__(self, r):
+        self.r = r
 
     
-#     def Area(self):
-#         print(f"Area of the Circle is {(22/7) * self.r * self.r }")
+    def Area(self):
+        print(f"Area of the Circle is {(22/7) * self.r * self.r }")
 
-#     def Perimeter(self):
-#         print(f"Perimeter of the Circle {2 * (22/7) * self.r: .2f}")
+    def Perimeter(self):
+        print(f"Perimeter of the Circle {2 * (22/7) * self.r: .2f}")
 
-# c1 = Cirlce(21)
-# c1.Area()
-# c1.Perimeter()
+c1 = Cirlce(21)
+c1.Area()
+c1.Perimeter()
 
 # Define a Employee class with attributes role, department & Salary. This class also has a showDetails() method.
 # Create an Engineer class that inherits properties from Employee & has additional attributes: name & age.
