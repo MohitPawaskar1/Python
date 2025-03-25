@@ -1,2 +1,3 @@
+This is Python repository by - Mohit Pawaskar
 
- Python DSA Repository
+This repo contains Python from scratch to Advance level along with DSA & Projects.
