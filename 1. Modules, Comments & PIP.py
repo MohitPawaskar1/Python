@@ -9,7 +9,7 @@
     
     """ 
     
-    sfor multiple line comments to program
+    for multiple line comments to program
 
 
 
