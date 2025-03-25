@@ -3,7 +3,15 @@
     
     Modules are of 2 types inbuilt & external i.e. User Defined
 
-    Comments are used using "#" to give in lines comments to program
+    Comments are used using "#" to give in single lines comments & 
+    
+    """ 
+    
+    """ 
+    
+    sfor multiple line comments to program
+
+
 
 '''
 
