@@ -7,3 +7,7 @@ Topics
 - Modules
 - PIP
 - Comments
+- Variables
+- Strings
+- Lists
+- Tuples
