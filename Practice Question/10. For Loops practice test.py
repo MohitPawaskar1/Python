@@ -7,7 +7,7 @@ print(f"The table of {n}")
 for i in range(1,11):
     print(f"{n} X {i} = {n * i}")
 
-
+print()
 
 # Q2. WAP to greet all the person names stored in a list 'l' and which starts with S.
 

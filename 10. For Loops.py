@@ -16,35 +16,35 @@
       
 '''
 # list
-# l = [1,2,3,4,5,6]
+l = [1,2,3,4,5,6]
 
-# for i in l:
-#     print(i)
+for i in l:
+    print(i)
 
 
 # # tuple
-# t = (1,2,3,4,5,6,7,8,9)
+t = (1,2,3,4,5,6,7,8,9)
 
-# for i in t:
-#     print(i)
+for i in t:
+    print(i)
 
 
 # # String
-# s = "Mohit"
+s = "Mohit"
 
-# for i in s:
-#     print(i)
+for i in s:
+    print(i)
 
 
 
 # using else after for loop
-# l = [1,2,3,4]
+l = [1,2,3,4]
 
-# for i in l:
-#     print(i)
+for i in l:
+    print(i)
 
-# else:
-#     print("Loop Over.")
+else:
+    print("Loop Over.")
 
 
 
