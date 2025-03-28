@@ -14,3 +14,5 @@ Topics
 - Dictionary
 - Sets
 - Conditional Statments
+- While loop
+- For loop
