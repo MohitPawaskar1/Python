@@ -16,3 +16,5 @@ Topics
 - Conditional Statments
 - While loop
 - For loop
+- Functions
+- Recursion
