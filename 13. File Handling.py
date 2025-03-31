@@ -27,23 +27,23 @@
 '''
 # Opening and Reading a file using .open
 
-# f = open("13.1 file.txt")
+f = open("13.1 file.txt")
 
-# data = f.read()
-# print(data)
-# f.close
+data = f.read()
+print(data)
+f.close
 
 
 
 # Writing a file using 'r'
 
-# st = "Mohit owns a BMW M5 F90 at the age of 23."
+st = "Mohit owns a BMW M5 F90 at the age of 23."
 
-# f = open("13.2 write_file.txt", "w")
+f = open("13.2 write_file.txt", "w")
 
-# f.write(st)
+f.write(st)
 
-# f.close()
+f.close()
 
 
 
@@ -51,45 +51,42 @@
 
 f = open("13.1 file.txt")
 
-# lines = f.readlines()
+lines = f.readlines()
 
-# print(lines)
+print(lines)
 
-# print(type(lines))
-
-
-# line1 = f.readline()
-# print(line1, type(line1))
-
-# line2 = f.readline()
-# print(line2, type(line2))
+print(type(lines))
 
 
+line1 = f.readline()
+print(line1, type(line1))
 
+line2 = f.readline()
+print(line2, type(line2))
 
-# f.close()
+f.close()
 
 
 
 # Reading lines using while loop
 
-# line =f.readline()
+line =f.readline()
 
-# while(line != ""):
-#     print(line)
-#     line = f.readline()
+while(line != ""):
+    print(line)
+    line = f.readline()
 
 
 
 # Appending a file
 
-# st = "\nMohit owns a BMW M5 F90 at the age of 23."
+st = "\nMohit owns a BMW M5 F90 at the age of 23."
 
-# f = open("13.1 file.txt", "a")
+f = open("13.1 file.txt", "a")
 
-# f.write(st)
+f.write(st)
 
-# f.close()
+f.close()
 
 
 
