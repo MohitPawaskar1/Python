@@ -25,27 +25,27 @@
 
 # Function Defination
 
-# def avg():
+def avg():
 
-#     num1 = int(input("Enter marks: "))
-#     num2 = int(input("Enter marks: "))
-#     num3 = int(input("Enter marks: "))
+    num1 = int(input("Enter marks: "))
+    num2 = int(input("Enter marks: "))
+    num3 = int(input("Enter marks: "))
 
-#     average = (num1 + num2 + num3) / 3
-#     print(f"The Average is {average}%")
+    average = (num1 + num2 + num3) / 3
+    print(f"The Average is {average}%")
 
-# avg()
+avg()
 
 
 
 # Gree Function
 
-# def greet():
+def greet():
 
-#     name = input("Enter your name: ")
-#     print(f"Hello {name}, Have a GOOD DAY!!!")
+    name = input("Enter your name: ")
+    print(f"Hello {name}, Have a GOOD DAY!!!")
 
-# greet()
+greet()
 
 
 

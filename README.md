@@ -19,3 +19,15 @@ Topics
 - Functions
 - Recursion
 - File Handling
+- OOPS 1
+- OOPS 2
+- Walrus
+- Match Case
+- Execptional Handling
+- Virtual Env
+- Lambda
+- Join
+- Format
+- Map
+- Filter
+- Reduce
