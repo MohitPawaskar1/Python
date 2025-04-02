@@ -3,7 +3,7 @@ from openai import OpenAI
 # pip install openai 
 # if you saved the key under a different environment variable name, you can do something like:
 client = OpenAI(
-  api_key="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")
+  api_key="")
 
 command = '''
 [21:54, 4/2/2025] PU0003_Mohit_Pawaskar: Bhand to meine bhi code strach se hi kiya tha��
